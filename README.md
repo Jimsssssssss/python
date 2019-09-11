@@ -10,10 +10,3 @@ if expression:<br>
 注意：elif 是else if的缩写<br>
 python中赋值语句执行时会先对赋值运算符右边的表达式求值，然后将这个值赋值给左边的变量<br>
 下面写列表 索引 切片
-=======
-if 语句：
-    语法如下
-if expression:
-    do this
-如果表达式expression的值为真，程序将执行缩进后的内容。务必要使用正确的缩进
->>>>>>> 3e558f3d5e470a965857af27b9e52f91b6a7e9d6
